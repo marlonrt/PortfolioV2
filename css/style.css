@@ -1,0 +1,12 @@
+p {
+    text-align: justify;
+  }
+
+  header {
+    padding-top: 30px;
+    padding-bottom: 5px;
+  }
+
+  .hidden {
+    display: none;
+  }
