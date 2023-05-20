@@ -1,5 +1,7 @@
 Esse website é meu Portfólio e também fruto dos meus estudos em Desenvolvimento Web.
+- HTML | CSS | JavaScript | AJAX | JQuery | Bootstrap
 
-https://github.com/marlonrt/MarlonRibeiro/assets/119014294/9454cd71-150a-41cf-891c-8d102c9194e7
+[PortfolioGithub.webm](https://github.com/marlonrt/MarlonRibeiro/assets/119014294/0505009d-f9b0-46b5-855f-0218bdb4ffba)
 
-HTML | CSS | JavaScript | AJAX | JQuery | Bootstrap
+
+
