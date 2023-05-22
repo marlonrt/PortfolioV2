@@ -42,6 +42,10 @@
     margin-bottom: 1rem;
   }
 
-  ul {
+  .certificados {
     padding-bottom: 5px;
+  }
+
+  .certificado-h2 {
+    margin-top: 15px;
   }

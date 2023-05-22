@@ -3,10 +3,11 @@ p {
   }
 
   header {
-    padding-top: 30px;
+    padding-top: 15px;
     padding-bottom: 5px;
   }
 
   .hidden {
     display: none;
   }
+  

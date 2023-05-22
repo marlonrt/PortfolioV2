@@ -14,5 +14,15 @@
     }
   }
 
+  body {
+    overflow: hidden;
+  }
+  
+  html {
+    height: 100%;
+    overflow-y: scroll;
+  }
+  
+
   
   
